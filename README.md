@@ -33,6 +33,10 @@
 | 2        | Anaconda: Python 3.7           | Windows, Mac OS X, and Linux (Any) |
 | 3        | xgboost 1.2            | Windows, Mac OS X, and Linux (Any) |
 
+### 问题和反馈
+[Click here](https://drzhang.org) 请发送电子邮件联系.
+
+
 # Hands-On Gradient Boosting with XGBoost and scikit-learn
 <a href="https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354"><img src="https://static.packt-cdn.com/products/9781839218354/cover/smaller" alt="Hands-On Gradient Boosting with XGBoost and scikit-learn" height="256px" align="right"></a>
 
