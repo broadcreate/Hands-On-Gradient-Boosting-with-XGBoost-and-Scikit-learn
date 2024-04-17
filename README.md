@@ -1,7 +1,7 @@
 
 
 # 梯度提升算法实战
-这是清华大学出版社出版的 《梯度提升算法实战》 一书代码库。
+这是清华大学出版社出版的 《梯度提升算法实战》 一书的代码库。
 
 ## 内容摘要
 本书首先介绍了scikit-learn中的机器学习和XGBoost技术，然后探讨了梯度提升背后的理论知识。包括决策树、装袋技术及XGBoost超参数。
@@ -15,6 +15,14 @@
     第2篇（第5～7章）为进阶篇，介绍XGBoost框架构成及超参数优化；
     第3篇（第8~10章）为进阶篇，着重讨论微调备选基学习器、创新技巧、特征工程，并使用稀疏矩阵、定制转换器和管道，练习构建适合行业部署的模型。全书提供了大量应用实例。
 本书适合作为高等院校计算机、软件工程专业高年级本科生、研究生的教材，同时适合有一定机器学习基础的数据科学家、机器学习工程师和研究人员阅读，为解决复杂问题提供实用指导。
+
+### 软件和硬件清单
+
+| 章节  | 所需软件                   | 所需操作系统                        |
+| -------- | ------------------------------------| -----------------------------------|
+| 1        |Anaconda: Jupyter Notebbok/ sklearn 0.23                    | Windows, Mac OS X, and Linux (Any) |
+| 2        | Anaconda: Python 3.7           | Windows, Mac OS X, and Linux (Any) |
+| 3        | xgboost 1.2            | Windows, Mac OS X, and Linux (Any) |
 
 # Hands-On Gradient Boosting with XGBoost and scikit-learn
 <a href="https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354"><img src="https://static.packt-cdn.com/products/9781839218354/cover/smaller" alt="Hands-On Gradient Boosting with XGBoost and scikit-learn" height="256px" align="right"></a>
