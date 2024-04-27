@@ -37,7 +37,7 @@ alt="https://DrZhang.org/" border="5" /></a>
 | 3        | xgboost 1.2            | Windows, Mac OS X, and Linux (Any) |
 
 ### 问题和反馈
-[Click here](https://drzhang.org) 请发送电子邮件联系.
+[联系译者](https://drzhang.org) 请发送电子邮件联系.
 
 
 # Hands-On Gradient Boosting with XGBoost and scikit-learn
