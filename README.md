@@ -3,6 +3,9 @@
 # 梯度提升算法实战
 这是清华大学出版社出版的 《梯度提升算法实战》 一书的代码库。
 
+<a href="https://DrZhang.org"><img src="https://drzhang.org/assets/img/GradientBoostingCoverCN-1400.webp" 
+alt="https://DrZhang.org/" border="5" /></a>
+
 ## 内容摘要
 本书首先介绍了scikit-learn中的机器学习和XGBoost技术，然后探讨了梯度提升背后的理论知识。包括决策树、装袋技术及XGBoost超参数。
 
